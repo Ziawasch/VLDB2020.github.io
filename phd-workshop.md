@@ -13,6 +13,10 @@ VLDB PhD Workshops are a unique opportunity for graduate students to present and
 
 VLDB 2020 welcomes submissions from PhD students at any stage of their PhD work. If you are in the early stages of your studies, the submission should clearly describe the problem focused on, explain why it is important, detail why the existing solutions are not sufficient, and give an outline of the new solutions that are pursued. If you are in the middle or close to completion, the submission should be more concrete in describing your contribution, but still in the context of the doctoral work.
 
+> Keynote by Aditya Parameswaran (UC Berkeley): [Data Science Part 1](https://www.loom.com/share/fcc5058d8893481da43d0e84db02ba8b), [Data Science Part 2](https://www.loom.com/share/e5e90461f17e48c6be6f0f4f285e3891), [Coping with rejections](https://www.loom.com/share/89bfb10668d94595b265a156126474a5)
+
+
+
 ### 2. Important Dates
 
 * Submission Deadline: **April <s>15</s> 22, 2020 (5 p.m. PST)** <span class="badge">Extended!</span>
